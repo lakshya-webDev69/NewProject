@@ -268,7 +268,7 @@ h2{
     .navbar{
         flex-direction: column;
         height: 400px;
-        transition: all 0.7s ease-in;
+        transition: all 10s ease-in;
     }
 
     .rightNav{
